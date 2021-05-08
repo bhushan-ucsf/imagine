@@ -1,2 +1,2 @@
 # imagine
-image is a free and opensource tool for scientific illustrations
+imagine is a free and opensource tool for scientific illustrations
